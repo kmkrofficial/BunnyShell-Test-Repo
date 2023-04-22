@@ -2,5 +2,8 @@
     "name": "bunnyshell-test",
     "description": "Test Environment",
     "version": "1.0.0",
-    "main": "index.js"
+    "main": "index.js",
+    "dependencies": {
+        "async" : "latest"
+    }
 }
